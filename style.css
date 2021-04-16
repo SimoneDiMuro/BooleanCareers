@@ -1,0 +1,62 @@
+body{
+background-image: url('background.jpg');
+background-size: cover;
+font-family: 'Ubuntu';
+margin-top: 200px;
+}
+
+main{
+  color: white;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  background: rgba(0,0,0,0.6);
+  border-radius: 10px;
+  padding: 100px;
+          }
+
+.nome{
+  font-size: 25px;
+  font-weight: bold;
+      }
+
+.logo{
+  width: 200px;
+  display:block;
+  margin: auto;
+  text-align:center;
+      }
+
+.logo-text{
+  color: Chartreuse;
+  text-align: center;
+          }
+
+.string {
+  background: Chartreuse;
+  padding: 10px;
+  text-align:center;
+        }
+
+#rettangolo1 {
+      width: 300px;
+      height: 25px;
+      border-radius: 5px;
+      background: orange;
+              }
+
+#rettangolo2 {
+      width: 500px;
+      height: 25px;
+      border-radius: 5px;
+      background: Chartreuse;
+              }
+
+#rettangolo3 {
+          width: 100px;
+          height: 25px;
+          border-radius: 5px;
+          background: red;
+              }
